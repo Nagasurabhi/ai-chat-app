@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "AIzaSyDOnhbsZIsJXXUOoWl_JtfvtBnwSDp6QtI";
+const API_KEY = "GEMINI_API_KEY";
 
 async function run() {
   try {
